@@ -1,0 +1,8 @@
+
+{
+  "name": "Luminary Store",
+  "description": "A high-end, human-centric e-commerce platform focusing on transparency, performance, and trust. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
